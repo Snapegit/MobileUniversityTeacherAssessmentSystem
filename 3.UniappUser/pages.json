@@ -1,0 +1,272 @@
+{
+	"pages": [ {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#E1F1FD",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "首页"
+		}
+	},{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#6AB6EC",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#6AB6EC",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#DEEFFD",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#DEEFFD",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#DDEDFC",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+	, {
+		"path": "pages/news-detail/news-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#DFEFFD",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "资讯详情"
+		}
+	}
+	,{
+		"path": "pages/xuesheng/list",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFD",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/xuesheng/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFC",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/xuesheng/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#DFEFFD",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/jiaoshi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFD",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/jiaoshi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFC",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/jiaoshi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#DFEFFD",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/kechengxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFD",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/kechengxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFC",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/kechengxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#DFEFFD",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/kechengrenwu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFD",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/kechengrenwu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFC",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/kechengrenwu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#DFEFFD",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/pingshichengji/list",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFD",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/pingshichengji/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFC",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/pingshichengji/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#DFEFFD",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/kaoshichengji/list",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFD",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/kaoshichengji/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFC",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/kaoshichengji/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#DFEFFD",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/newstype/list",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFD",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/newstype/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFC",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/newstype/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#DFEFFD",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFD",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFC",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/storeup/list",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFD",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/storeup/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#DBEDFC",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/storeup/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#DFEFFD",
+			"navigationBarTextStyle": "black"
+		}
+	}
+    ,{
+        "path": "common/linkOthers/linkOthers",
+        "style": {
+			"navigationBarBackgroundColor": "#E1F1FD",
+			"navigationBarTextStyle": "black"
+        }
+    }
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "基于springboot+vue的大学教师考核管理系统的设计与实现",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#000000",
+		"borderStyle": "black",
+		"backgroundColor": "#6AB6EC",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+
+			,{
+				"pagePath": "pages/kechengxinxi/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "课程信息"
+			}
+
+
+
+
+
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
